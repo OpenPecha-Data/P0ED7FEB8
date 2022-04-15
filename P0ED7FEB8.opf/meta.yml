@@ -1,0 +1,29 @@
+id: P0ED7FEB8
+initial_creation_type: input
+source_metadata:
+  title: The Great Religious History by Sa skya paṇḍi ta (1182–1251)
+  author: sa skya paNDi ta kun dga rgyal mtshan/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2020-01-18); no thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre; This text was published by the Paltsek
+    Research Institute. (src)
+  - Text input:dpal brtsegs bod yig dpe rnying zhib 'jug khang / (Lhasa) (pts)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/4640
+  bases:
+    a4d9:
+      title: The Great Religious History by Sa skya paṇḍi ta (1182–1251)
+      order: 1
+      base_file: a4d9.txt
+created_at: '2022-04-15T19:09:00.152928'
+last_modified_at: '2022-04-15T19:09:00.152935'
+quality: null
